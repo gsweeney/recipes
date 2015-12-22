@@ -1,0 +1,6 @@
+Cereal Recipe
+-------------
+
+1) Find box of cereal and jug of milk
+2) Put cereal and milk into the same bowl
+3) Eat
